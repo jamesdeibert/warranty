@@ -1,0 +1,19 @@
+{
+  "name": "warranty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesdeibert/warranty.git"
+  },
+  "author": "jamesdeibert",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/jamesdeibert/warranty/issues"
+  },
+  "homepage": "https://github.com/jamesdeibert/warranty#readme"
+}
